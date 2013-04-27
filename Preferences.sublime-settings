@@ -4,6 +4,7 @@
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "ProFontWindows",
+	// "font_face": "Courier New",
 	"font_options":
 	[
 		"no_antialias"
